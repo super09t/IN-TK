@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "ASP.NET_SessionId",
+      "value": "3ptuw0x4zpf3zgi3kk3fu4ql",
+      "domain": "pus1.customs.gov.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.190754278.1763094395",
+      "domain": ".customs.gov.vn",
+      "path": "/",
+      "expires": 1763184192,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_44050693_4",
+      "value": "1",
+      "domain": ".customs.gov.vn",
+      "path": "/",
+      "expires": 1763097846,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_EZVLF2JP85",
+      "value": "GS2.1.s1763097786$o2$g1$t1763097792$j54$l0$h0",
+      "domain": ".customs.gov.vn",
+      "path": "/",
+      "expires": 1797657792.644986,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.303737951.1763094395",
+      "domain": ".customs.gov.vn",
+      "path": "/",
+      "expires": 1797657792.645388,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
