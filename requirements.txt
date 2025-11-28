@@ -1,0 +1,21 @@
+# Core data / Excel utilities
+pandas
+openpyxl
+xlrd
+pyodbc
+
+# OCR modules
+easyocr
+paddleocr
+
+# Automation & browser control
+selenium
+seleniumbase
+
+# Numerical / image helpers
+numpy
+Pillow
+
+# Misc dependencies required by scripts
+packaging
+six
